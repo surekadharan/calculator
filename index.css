@@ -1,0 +1,36 @@
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .display {
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 24px;
+    text-align: right;
+  }
+  
+  .btn {
+    width: 70px;
+    height: 70px;
+    font-size: 24px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: #f2f2f2;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .operator {
+    background-color: #ff9d9d;
+  }
+  
+  .calculate {
+    background-color: #a6f3a6;
+  }
+  
+  .btn:hover {
+    cursor: pointer;
+    background-color: #d9d9d9;
+  }
+  
